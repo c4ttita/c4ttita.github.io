@@ -1,0 +1,94 @@
+h2{
+    text-align: center;
+    color: #54BA61;
+    font-family: "Playball", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 60px;
+}
+.listaPRINCIPIO{
+    font-size: 15px;
+}
+p{
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+    font-size: 20px;
+    text-indent: 2em;
+}
+h3{
+    text-align: center;
+    color: #2D7634;
+    font-family: "Yuyu";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+h4{
+  text-align: center;
+    color: #54BA61;
+    font-family: "Playball", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 60px;
+}
+ul{
+  font-size: 20px;
+}
+  .listacontactos{
+    font-size: 20px;
+  }
+  .titulo-columna{
+    background:#60A12B;
+    color:white;
+    text-align:center;
+    padding:18px;
+    border-radius:12px;
+    font-weight:bold;
+}
+.concepto{
+    background:#60A12B;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-radius:12px;
+    padding:18px;
+    font-weight:bold;
+}
+.contenido{
+    background:white;
+    padding:15px;
+    border-radius:12px;
+    box-shadow:0 2px 8px rgba(0,0,0,.15);
+}
+.contenido1{
+    background:white;
+    padding:15px;
+    border-radius:12px;
+    box-shadow:0 2px 8px rgba(0,0,0,.15);
+    text-align: center;
+}
+ .titulo-columna1{
+    background:#509C16;
+    color:white;
+    text-align:center;
+    padding:18px;
+    border-radius:12px;
+    font-weight:bold;
+}
+.concepto1{
+    background:#509C16;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-radius:12px;
+    padding:18px;
+    font-weight:bold;
+}
+  .header{
+    background-color: #F1FFE8;
+  }
